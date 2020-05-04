@@ -4,8 +4,8 @@ import "./style.css";
 function Header() {
   return (
     <header className="header">
-      <h1>Rules:</h1>
-      <h2>Click on an image to earn a point, click on the same image twice you lose.</h2>
+      <h1>Rules</h1>
+      <h2>Click on as many different images as you can.</h2>
     </header>
   );
 }

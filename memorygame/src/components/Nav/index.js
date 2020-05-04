@@ -9,11 +9,11 @@ function Nav(props) {
     <nav className="navbar">
       <ul>
         <li className="brand">
-          <a href="/">Clicky Game</a>
+          <a href="/">Let's go streaking!</a>
         </li>
         <NavMessage score={props.score} topScore={props.topScore} />
         <li>
-          Score: {props.score} | Top Score: {props.topScore}
+          Current Streak: {props.score} | Best Streak: {props.topScore}
         </li>
       </ul>
     </nav>

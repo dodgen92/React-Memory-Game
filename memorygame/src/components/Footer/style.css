@@ -1,9 +1,9 @@
 .footer {
     background: 
-    rgb(57, 13, 214);
-    height: 100px;
+    rgb(77, 33, 165);
+    height: 50px;
     position: relative;
-    color: white;
+    color: rgb(6, 4, 8);
     overflow: auto;
   }
   
@@ -12,7 +12,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background:rgb(57, 14, 195);
+    background:rgb(84, 13, 167);
     padding: 8px;
     font-weight: 600;
   }

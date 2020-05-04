@@ -1,13 +1,13 @@
   
 .navbar {
-    background: #adabb1;
-    min-height: 70px;
+    background: #020103;
+    min-height: 25px;
     position: fixed;
     width: 100%;
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-    color: white;
+    color: rgb(82, 13, 172);
     font-size: calc(10px + (24 - 10) * (100vw - 320px) / (1200 - 400));
-    z-index: 99;
+    z-index: 50;
     white-space: nowrap;
   }
   
@@ -25,7 +25,7 @@
   
   .navbar a {
     text-decoration: none;
-    color: white;
+    color: rgb(52, 8, 109);
     font-weight: 900;
   }
   
